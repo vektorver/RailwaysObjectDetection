@@ -47,6 +47,7 @@ model.predict('1657.jpg')
 
 Веса можно скачать здесь:
 https://drive.google.com/file/d/1-1WlEnwuXrAf3dlufw1Moyxhv3YRunz3/view?usp=sharing
+
 Colab Notebook
 https://colab.research.google.com/drive/1dwRG6LpQ_Cy1XJvLiA3_4FNd9Bwx5PMt?usp=sharing
 

@@ -48,7 +48,6 @@ class_id = 2, name = 2, ap = 97.10%   	 (TP = 1550, FP = 1841)
 Взяты анкоры с вероятностью выше 90 процентов
 
 ![image](https://user-images.githubusercontent.com/29977757/196162072-1e838b10-80ed-493f-a861-b376eef4a627.png)
-![image](https://user-images.githubusercontent.com/29977757/196366443-3382aa73-15ed-498f-8aad-a5f309466c43.png)
 ![image](https://user-images.githubusercontent.com/29977757/196368616-edde87fc-e085-4550-ad0f-bcedef07c0c4.png)
 
 

@@ -5,7 +5,7 @@ import os
 config = {'obj.data': 'obj.data', 
        'cfg':'yolov4-obj.cfg',
        'weights': 'yolov4-obj_best.weights', 
-       'thresh': 0.9}
+       'thresh': 0.7}
 
 class ObDetModel:
   
